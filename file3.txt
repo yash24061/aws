@@ -1,0 +1,5 @@
+ls
+git status
+ls
+
+git status
